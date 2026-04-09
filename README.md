@@ -10,7 +10,8 @@ A premium-grade, fintech-style mobile application built with React Native & Expo
 
 | Auth | Home | Balances | Profile |
 |------|------|----------|---------|
-| Sign In / Sign Up | Dashboard + Card | Credit Score + Charts | Profile Preview/Edit |
+| ![Auth](./screenshots/auth.png) | ![Home](./screenshots/home.png) | ![Balances](./screenshots/balances.png) | ![Profile](./screenshots/profile.png) |
+
 
 ---
 
